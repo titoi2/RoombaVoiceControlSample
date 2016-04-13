@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoombaVoiceControlSample</string>
+    <string name="message">Android6では、設定のアプリ情報からマイクの許可をして下さい。</string>
+    <string name="start">入力開始</string>
+</resources>
